@@ -1,3 +1,3 @@
 # app_multihilo
 # Screenshot
-![](docs/screenshot.jpg)
+![](docs/screenshot.JPG)
